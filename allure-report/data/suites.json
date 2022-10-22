@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "Selenium_POM_TestNG",
+      "children" : [ {
+        "name" : "TestRunner",
+        "children" : [ {
+          "name" : "User Registration",
+          "uid" : "cb8e20d1996621e4",
+          "parentUid" : "992d5ceb5daebf2cfa4083c08a7e46f3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1666449156339,
+            "stop" : 1666449163710,
+            "duration" : 7371
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Place Order",
+          "uid" : "c0f759f99112290b",
+          "parentUid" : "992d5ceb5daebf2cfa4083c08a7e46f3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1666449163824,
+            "stop" : 1666449198438,
+            "duration" : 34614
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "992d5ceb5daebf2cfa4083c08a7e46f3"
+      } ],
+      "uid" : "9756650219faf7893051a42f2907e800"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

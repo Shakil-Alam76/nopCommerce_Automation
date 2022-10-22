@@ -1,0 +1,112 @@
+{
+  "uid" : "6397d56a11b67373",
+  "name" : "User Registration",
+  "fullName" : "TestRunner.do_Registration",
+  "historyId" : "d82d61b91bde88676a05c3133e48fd8c",
+  "time" : {
+    "start" : 1666445771246,
+    "stop" : 1666445777135,
+    "duration" : 5889
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1666445766827,
+      "stop" : 1666445771105,
+      "duration" : 4278
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "screenShot",
+    "time" : {
+      "start" : 1666445777244,
+      "stop" : 1666445777244,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "logout",
+    "time" : {
+      "start" : 1666445823112,
+      "stop" : 1666445823112,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "do_Registration"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium_POM_TestNG"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DNAF7DL"
+  }, {
+    "name" : "thread",
+    "value" : "12112@DESKTOP-DNAF7DL.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6397d56a11b67373.json",
+  "parameterValues" : [ ]
+}
